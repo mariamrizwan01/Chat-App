@@ -14,7 +14,7 @@ class OnboardScreen extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 20.0),
                 child: Image.asset(
-                  'assets/images/onboarding.png',
+                  'assets/images/onboarding.jpg',
                   height: 250,
                 ),
               ),
